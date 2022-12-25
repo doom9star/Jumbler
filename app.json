@@ -1,0 +1,12 @@
+{
+  "name": "Jumbler",
+  "displayName": "Jumbler",
+  "expo": {
+    "name": "Jumbler",
+    "slug": "Jumbler",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
